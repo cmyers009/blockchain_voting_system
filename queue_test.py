@@ -1,5 +1,3 @@
-# Hello World program in Python
-    
 import time
 import random
 import socket
